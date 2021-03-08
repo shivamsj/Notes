@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes Sj</string>
+    <string name="search_notes">Search Notes</string>
+    <string name="note_title">Note Title</string>
+    <string name="note_subtitle">Note Subtitle</string>
+    <string name="type_note_here">Type Note Here</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_image">Add Image</string>
+    <string name="add_url">Add URL</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="add">ADD</string>
+    <string name="cancel_dialog">Cancel</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="are_you_want_to_delete_this_note">Are You Want To Delete This Note</string>
+</resources>
