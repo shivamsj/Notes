@@ -78,6 +78,7 @@ public class MainActivity extends AppCompatActivity implements NotesListener {
         notesRecyclerView.setLayoutManager(
                 new StaggeredGridLayoutManager(2,StaggeredGridLayoutManager.VERTICAL)
         );
+
         noteList=new ArrayList<>();
         noteAdapter=new NoteAdapter(noteList,this);
         notesRecyclerView.setAdapter(noteAdapter);
